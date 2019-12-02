@@ -1,0 +1,31 @@
+_repo: Royal-Romances-of-To-day_60770
+_version: 0.0.1
+alternative_title: Royal Romances of Today
+creator:
+  author:
+    agent_name: Durland, Kellogg
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '51135'
+    url: http://www.gutenberg.org/2009/agents/51135
+description: ''
+gutenberg_issued: '2019-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60770'
+  lccn: '11027468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elena, Queen, consort of Victor Emmanuel III, King of Italy, 1873-1952'
+- !lcsh 'Victoria Eugenia, Queen, consort of Alfonso XIII, King of Spain, 1887-1969'
+- !lcsh 'Kings and rulers'
+- !lcsh 'Alexandra, Empress, consort of Nicholas II, Emperor of Russia, 1872-1918'
+- !lcc 'D'
+- GITenberg
+tableOfContents: Queen Victoria Eugenie of Spain -- The Empress Alexandra Feodorovna
+  of Russia -- Queen Elena of Italy.
+title: Royal Romances of To-day
+url: http://www.gutenberg.org/ebooks/60770
