@@ -1,6 +1,9 @@
 _repo: Royal-Romances-of-To-day_60770
 _version: 0.1.0
 alternative_title: Royal Romances of Today
+covers:
+- cover_type: archival
+  image_path: 60770-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Durland, Kellogg
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51135'
     url: http://www.gutenberg.org/2009/agents/51135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60770#Royal-Romances-of-To-day
 gutenberg_issued: '2019-11-23'
 gutenberg_type: Text
 identifiers:
